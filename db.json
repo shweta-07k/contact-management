@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "shweta",
+      "lastname": "k",
+      "status": true
+    },
+    {
+      "id": 2,
+      "firstname": "kate",
+      "lastname": "doe"
+    },
+    {
+      "firstname": "ross",
+      "lastname": "doe",
+      "status": true,
+      "id": 3
+    },
+    {
+      "firstname": "dd",
+      "lastname": "dddd",
+      "status": true,
+      "id": 4
+    },
+    {
+      "firstname": "dd",
+      "lastname": "dddd",
+      "status": true,
+      "id": 5
+    },
+    {
+      "firstname": "john",
+      "lastname": "deo",
+      "status": false,
+      "id": 6
+    },
+    {
+      "firstname": "kate",
+      "lastname": "deo",
+      "status": true,
+      "id": 7
+    }
+  ]
+}
